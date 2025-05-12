@@ -1,0 +1,101 @@
+Name,City,Completion Year,Height (m),Height (ft),Floors,Material,Function
+Willis Tower,Chicago,1974,442.0,1451.0,108,All-Steel,
+One World Trade Center,New York City,1972,417.0,1368.0,110,All-Steel,Office
+Two World Trade Center,New York City,1973,415.0,1362.0,110,All-Steel,Office
+Empire State Building,New York City,1931,381.0,1250.0,102,All-Steel,Office
+Aon Center,Chicago,1973,346.0,1136.0,83,All-Steel,Office
+875 North Michigan Avenue,Chicago,1969,344.0,1128.0,100,All-Steel,Residential / Office
+Chrysler Building,New York City,1930,319.0,1046.0,77,All-Steel,Office
+First Canadian Place,Toronto,1975,298.0,978.0,72,All-Steel,Office
+70 Pine,New York City,1932,290.0,952.0,67,All-Steel,Office
+The Trump Building,New York City,1930,283.0,927.0,71,All-Steel,Office
+601 Lexington,New York City,1977,279.0,915.0,63,All-Steel,Office
+Chase Tower,Chicago,1969,265.0,868.0,61,All-Steel,Office
+Water Tower Place,Chicago,1976,262.0,859.0,74,All-Concrete,Residential / Hotel / Retail
+707 Wilshire Tower,Los Angeles,1974,262.0,858.0,62,All-Steel,Office
+Transamerica Pyramid Center,San Francisco,1972,260.0,853.0,48,Composite,
+Comcast Building,New York City,1933,259.0,850.0,70,All-Steel,Office
+Centro Financiero Latino,Caracas,1978,,,32,N/A,Government
+U.S. Steel Tower,Pittsburgh,1970,256.0,841.0,64,All-Steel,Office
+28 Liberty,New York City,1961,248.0,813.0,60,All-Steel,Office
+MetLife Building,New York City,1963,246.0,808.0,59,All-Steel,Office
+Woolworth Building,New York City,1913,241.0,792.0,58,All-Steel,Office
+IDS Center,Minneapolis,1973,241.0,792.0,55,Concrete-Steel Composite,Office
+200 Clarendon,Boston,1976,241.0,790.0,62,All-Steel,Office
+Sunshine 60 Tower,Tokyo,1978,240.0,787.0,60,Concrete-Steel Composite,Office
+Commerce Court West,Toronto,1973,239.0,784.0,57,Concrete-Steel Composite,Office
+MV Lomonosov State University,Moscow,1953,239.0,784.0,39,All-Steel,Education
+555 California Street,San Francisco,1969,237.0,779.0,52,All-Steel,Office
+Palace of Culture and Science,Warsaw,1955,231.0,757.0,42,All-Steel,Office
+Enterprise Plaza,Houston,1980,230.0,756.0,55,Concrete-Steel Composite,Office
+One Penn Plaza,New York City,1972,229.0,750.0,57,All-Steel,Office
+1251 Avenue of the Americas,New York City,1972,229.0,750.0,54,All-Steel,Office
+Prudential Tower,Boston,1964,229.0,750.0,52,All-Steel,Office
+MLC Centre,Sydney,1977,228.0,748.0,60,All-Concrete,Office
+One Astor Plaza,New York City,1972,227.0,745.0,54,Concrete-Steel Composite,Office
+One Liberty Plaza,New York City,1972,226.0,743.0,54,All-Steel,Office
+Twenty Exchange,New York City,1931,226.0,741.0,57,All-Steel,Office
+Parque Central Torre Officinas I,Caracas,1979,225.0,738.0,56,All-Concrete,Office
+Shinjuku Mitsui Building,Tokyo,1974,225.0,738.0,55,All-Steel,Office
+Bank of America Plaza,Los Angeles,1975,224.0,735.0,55,All-Steel,Office
+TD Tower,Toronto,1967,223.0,731.0,56,All-Steel,
+Shinjuku Center Building,Tokyo,1979,223.0,731.0,54,All-Steel,
+Detroit Marriott at the Renaissance Center,Detroit,1977,221.0,727.0,70,All-Concrete,Hotel
+Westin Peachtree Plaza,Atlanta,1976,220.0,723.0,73,All-Concrete,Hotel
+One Shell Plaza,Houston,1970,218.0,714.0,50,All-Concrete,Office
+First International Building,Dallas,1974,216.0,710.0,56,All-Steel,Office
+Terminal Tower,Cleveland,1928,216.0,708.0,52,All-Steel,Office
+JPMorgan Chase Tower,New York City,1960,216.0,707.0,52,All-Steel,
+General Motors Building,New York City,1968,215.0,705.0,50,All-Steel,Office
+Metropolitan Life Tower,New York City,1909,213.0,700.0,50,All-Steel,Office
+City National Tower,Los Angeles,1971,213.0,699.0,52,All-Steel,Office
+Paul Hastings Tower,Los Angeles,1971,213.0,699.0,52,All-Steel,Office
+500 Fifth Avenue,New York City,1931,212.0,697.0,59,All-Steel,Office
+Hancock Whitney Center,New Orleans,1972,212.0,697.0,51,Concrete-Steel Composite,Office
+Shinjuku Sumitomo Building,Tokyo,1974,212.0,696.0,52,All-Steel,Office
+AMA Plaza,Chicago,1972,212.0,695.0,52,Concrete-Steel Composite,Office
+Solow Building,New York City,1974,210.0,689.0,49,All-Steel,Office
+140 Broadway,New York City,1967,210.0,688.0,52,All-Steel,Office
+55 Water Street,New York City,1972,209.0,687.0,53,All-Steel,
+277 Park Avenue,New York City,1963,209.0,687.0,50,All-Steel,Office
+Tour Montparnasse,Paris,1973,209.0,686.0,58,Concrete-Steel Composite,Office
+Shinjuku Nomura Building,Tokyo,1978,209.0,686.0,53,All-Steel,Office
+Three Allen Center,Houston,1980,209.0,685.0,50,All-Steel,Office
+LyondellBassell Tower,Houston,1978,207.0,678.0,47,Concrete-Steel Composite,Office
+Tower Square,Atlanta,1980,206.0,677.0,47,All-Concrete,Office
+Radisson Royal Hotel,Moscow,1955,206.0,676.0,34,All-Steel,Hotel
+McGraw-Hill Building,New York City,1972,205.0,674.0,51,All-Steel,Office
+One Grand Central Place,New York City,1930,205.0,673.0,53,All-Steel,Office
+Paramount Plaza,New York City,1970,204.0,670.0,48,All-Steel,Office
+BOK Tower,Tulsa,1975,203.0,667.0,52,All-Steel,Office
+DBS Tower I,Singapore,1975,201.0,660.0,50,N/A,Office
+Carlton Centre,Johannesburg,1973,201.0,660.0,49,All-Concrete,Office
+Sompo Japan Head Office Building,Tokyo,1976,200.0,656.0,43,Concrete-Steel Composite,Office
+One Wall Street,New York City,1931,199.0,654.0,50,All-Steel,Office
+1100 Milam Building,Houston,1973,198.0,651.0,47,All-Steel,Office
+Chanin Building,New York City,1929,198.0,649.0,56,All-Steel,Office
+Overseas Chinese Banking Corp. Centre,Singapore,1976,198.0,649.0,52,Concrete-Steel Composite,Office
+Cityplex Central Tower,Tulsa,1979,198.0,648.0,60,N/A,Office
+245 Park Avenue,New York City,1967,198.0,648.0,47,All-Steel,Office
+Richard J. Daley Center,Chicago,1965,198.0,648.0,31,All-Steel,Office
+Lake Point Tower,Chicago,1968,196.0,645.0,70,All-Concrete,Residential
+NYNEX Building,New York City,1974,196.0,644.0,43,All-Steel,Office
+570 Lexington Avenue,New York City,1931,196.0,643.0,50,All-Steel,Office
+Torre Colpatria,Bogota,1979,196.0,643.0,50,N/A,Office
+1 New York Plaza,New York City,1969,195.0,640.0,50,All-Steel,Office
+1 Dag Hammarskjold Plaza,New York City,1972,194.0,637.0,48,N/A,Office
+345 Park Avenue,New York City,1969,193.0,634.0,44,All-Steel,Office
+Sun Hung Kai Centre,Hong Kong,1980,193.0,633.0,51,All-Concrete,Office
+Mercantile Building,New York City,1929,193.0,632.0,48,All-Steel,Office
+Grace Plaza,New York City,1972,192.0,630.0,50,All-Steel,
+Safeco Plaza,Seattle,1969,192.0,630.0,50,All-Steel,Office
+Home Insurance Plaza,New York City,1966,192.0,630.0,44,All-Steel,Office
+Centro de Comercio Internacional,Bogota,1974,192.0,630.0,50,N/A,Office
+The National,Dallas,1965,191.0,628.0,52,All-Steel,Office
+888 7th Avenue,New York City,1971,191.0,628.0,45,All-Steel,Office
+1345 Avenue of the Americas,New York City,1969,191.0,625.0,50,All-Steel,Office
+Waldorf Astoria New York,New York City,1931,191.0,625.0,47,All-Steel,Hotel
+Rhodes State Office Tower,Columbus,1973,190.0,624.0,41,N/A,
+International Plaza,Singapore,1976,190.0,623.0,50,N/A,Residential / Office
+Singapore Land Tower,Singapore,1980,190.0,623.0,48,N/A,Office
+Tour de la Bourse,Montreal,1964,190.0,623.0,47,All-Concrete,Office

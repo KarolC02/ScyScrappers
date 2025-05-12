@@ -1,0 +1,101 @@
+Name,City,Country,Completion Year,Height (m),Height (ft),Floors,Material,Function
+Petronas Twin Tower 1,Kuala Lumpur,Malaysia,1998,452.0,1483.0,88,Concrete-Steel Composite,Office
+Petronas Twin Tower 2,Kuala Lumpur,Malaysia,1998,452.0,1483.0,88,Concrete-Steel Composite,Office
+Willis Tower,Chicago,United States,1974,442.0,1451.0,108,All-Steel,
+Jin Mao Tower,Shanghai,China,1999,421.0,1380.0,88,Concrete-Steel Composite,Hotel / Office
+One World Trade Center,New York City,United States,1972,417.0,1368.0,110,All-Steel,Office
+Two World Trade Center,New York City,United States,1973,415.0,1362.0,110,All-Steel,Office
+CITIC Plaza,Guangzhou,China,1996,390.0,1280.0,80,Concrete-Steel Composite,Office
+Shun Hing Square,Shenzhen,China,1996,384.0,1260.0,69,Concrete-Steel Composite,Office
+Empire State Building,New York City,United States,1931,381.0,1250.0,102,All-Steel,Office
+Central Plaza,Hong Kong,China,1992,374.0,1227.0,78,All-Concrete,Office
+Bank of China Tower,Hong Kong,China,1990,367.0,1205.0,72,Concrete-Steel Composite,Office
+Emirates Tower One,Dubai,United Arab Emirates,2000,355.0,1163.0,54,Composite,Office
+85 Sky Tower,Kaohsiung,Taiwan,1997,348.0,1140.0,85,All-Steel,Hotel / Office / Retail
+Aon Center,Chicago,United States,1973,346.0,1136.0,83,All-Steel,Office
+The Center,Hong Kong,China,1998,346.0,1135.0,73,All-Steel,Office
+875 North Michigan Avenue,Chicago,United States,1969,344.0,1128.0,100,All-Steel,Residential / Office
+Burj Al Arab,Dubai,United Arab Emirates,1999,321.0,1053.0,56,Composite,Hotel
+Chrysler Building,New York City,United States,1930,319.0,1046.0,77,All-Steel,Office
+Bank of America Plaza,Atlanta,United States,1992,312.0,1023.0,55,Concrete-Steel Composite,
+U.S. Bank Tower,Los Angeles,United States,1990,310.0,1018.0,72,All-Steel,Office
+Emirates Tower Two,Dubai,United Arab Emirates,2000,309.0,1014.0,56,All-Concrete,Hotel
+The Franklin - North Tower,Chicago,United States,1989,307.0,1007.0,60,Concrete-Steel Composite,Office
+JPMorgan Chase Tower,Houston,United States,1982,305.0,1002.0,75,Concrete-Steel Composite,Office
+Baiyoke Tower II,Bangkok,Thailand,1997,304.0,997.0,85,All-Concrete,Hotel
+Two Prudential Plaza,Chicago,United States,1990,303.0,995.0,64,All-Concrete,Office
+1000 Louisiana,Houston,United States,1983,302.0,992.0,71,All-Steel,Office
+First Canadian Place,Toronto,Canada,1975,298.0,978.0,72,All-Steel,Office
+Landmark Tower,Yokohama,Japan,1993,296.0,972.0,73,All-Steel,Hotel / Office
+311 South Wacker Drive,Chicago,United States,1990,293.0,961.0,65,All-Concrete,Office
+SEG Plaza,Shenzhen,China,2000,292.0,957.0,71,All-Concrete,Office
+70 Pine,New York City,United States,1932,290.0,952.0,67,All-Steel,Office
+Key Tower,Cleveland,United States,1991,289.0,947.0,57,Composite,Office
+One Liberty Place,Philadelphia,United States,1987,288.0,945.0,61,All-Steel,Office
+Columbia Center,Seattle,United States,1984,284.0,933.0,76,Concrete-Steel Composite,Office
+Cheung Kong Centre,Hong Kong,China,1999,283.0,928.0,63,All-Steel,Office
+The Trump Building,New York City,United States,1930,283.0,927.0,71,All-Steel,Office
+Bank of America Plaza,Dallas,United States,1985,281.0,921.0,72,Concrete-Steel Composite,Office
+United Overseas Bank Plaza One,Singapore,Singapore,1992,280.0,919.0,66,All-Steel,Office
+601 Lexington,New York City,United States,1977,279.0,915.0,63,All-Steel,Office
+Overseas Union Bank Centre,Singapore,Singapore,1986,278.0,911.0,63,All-Steel,Office
+Republic Plaza,Singapore,Singapore,1996,276.0,906.0,66,Concrete-Steel Composite,Office
+Scotia Tower,Toronto,Canada,1988,275.0,902.0,68,Composite,Office
+Williams Tower,Houston,United States,1982,275.0,901.0,64,All-Steel,Office
+Wuhan World Trade Tower,Wuhan,China,1998,273.0,896.0,60,,Office
+Renaissance Tower,Dallas,United States,1986,270.0,886.0,56,All-Steel,Office
+Al Faisaliah Center,Riyadh,Saudi Arabia,2000,267.0,876.0,30,Steel Over Concrete,Office / Hotel
+120 Collins Street,Melbourne,Australia,1991,267.0,875.0,52,All-Concrete,Office
+Bank of America Corporate Center,Charlotte,United States,1992,265.0,871.0,60,All-Concrete,Office
+900 North Michigan Avenue,Chicago,United States,1989,265.0,869.0,66,Concrete Over Steel,Residential / Office / Hotel
+Chase Tower,Chicago,United States,1969,265.0,868.0,61,All-Steel,Office
+Truist Plaza,Atlanta,United States,1992,264.0,867.0,60,All-Concrete,Office
+Wisma 46,Jakarta,Indonesia,1996,262.0,859.0,46,All-Concrete,Office
+Water Tower Place,Chicago,United States,1976,262.0,859.0,74,All-Concrete,Residential / Hotel / Retail
+707 Wilshire Tower,Los Angeles,United States,1974,262.0,858.0,62,All-Steel,Office
+Brookfield Place,Toronto,Canada,1990,261.0,856.0,53,Concrete-Steel Composite,Office
+101 Collins Street,Melbourne,Australia,1991,260.0,853.0,50,Composite,Office
+Transamerica Pyramid Center,San Francisco,United States,1972,260.0,853.0,48,Composite,
+Shenzhen Special Zone Daily Tower,Shenzhen,China,1998,260.0,853.0,42,All-Concrete,Office
+Comcast Building,New York City,United States,1933,259.0,850.0,70,All-Steel,Office
+Commerzbank Tower,Frankfurt am Main,Germany,1997,259.0,850.0,56,Concrete-Steel Composite,Office
+Centro Financiero Latino,Caracas,Venezuela,1978,,,32,,Government
+Philippine Bank of Communications,Makati,Philippines,2000,259.0,848.0,55,Steel Over Concrete,Office
+Two Liberty Place,Philadelphia,United States,1990,258.0,848.0,58,All-Steel,Office
+Park Tower,Chicago,United States,2000,257.0,844.0,68,All-Concrete,Residential / Hotel
+MesseTurm,Frankfurt am Main,Germany,1990,257.0,842.0,64,All-Concrete,
+U.S. Steel Tower,Pittsburgh,United States,1970,256.0,841.0,64,All-Steel,Office
+Rinku Gate Tower,Izumisano,Japan,1996,256.0,840.0,56,Concrete Over Steel,Hotel / Office
+Osaka World Trade Center,Osaka,Japan,1995,256.0,840.0,55,All-Steel,Office
+Capital Tower,Singapore,Singapore,2000,255.0,838.0,52,Composite,Office
+Central Park Tower,Perth,Australia,1992,253.0,830.0,52,All-Concrete,Office
+Rialto Towers,Melbourne,Australia,1986,251.0,824.0,63,All-Concrete,Office
+Jiali Plaza,Wuhan,China,1997,251.0,823.0,57,All-Concrete,Office
+One Atlantic Center,Atlanta,United States,1987,250.0,820.0,50,Concrete-Steel Composite,Office
+KLI 63 Building,Seoul,South Korea,1985,250.0,819.0,60,All-Steel,Office
+CitySpire,New York City,United States,1987,248.0,814.0,75,All-Concrete,Residential / Office
+28 Liberty,New York City,United States,1961,248.0,813.0,60,All-Steel,Office
+4 Times Square,New York City,United States,1999,247.0,809.0,48,All-Steel,Office
+MetLife Building,New York City,United States,1963,246.0,808.0,59,All-Steel,Office
+JR Central Office Tower,Nagoya,Japan,2000,245.0,804.0,51,Concrete-Steel Composite,Office
+Shin Kong Life Tower,Taipei,Taiwan,1993,245.0,803.0,51,All-Steel,Office
+Chifley Tower,Sydney,Australia,1992,244.0,801.0,50,All-Steel,
+Menara Maybank,Kuala Lumpur,Malaysia,1988,244.0,799.0,50,All-Concrete,Office
+Tokyo Metropolitan Government Building,Tokyo,Japan,1991,243.0,799.0,48,All-Concrete,
+Citigroup Centre,Sydney,Australia,2000,243.0,797.0,50,All-Concrete,Office
+Dalian World Trade Center,Dalian,China,2000,242.0,794.0,50,All-Steel,Office
+BNY Mellon Bank Center,Philadelphia,United States,1990,241.0,792.0,54,Concrete-Steel Composite,Office
+Woolworth Building,New York City,United States,1913,241.0,792.0,58,All-Steel,Office
+IDS Center,Minneapolis,United States,1973,241.0,792.0,55,Concrete-Steel Composite,Office
+Bank of China Mansion,Qingdao,China,1999,241.0,791.0,54,,Office
+200 Clarendon,Boston,United States,1976,241.0,790.0,62,All-Steel,Office
+Lee Garden One,Hong Kong,China,1998,240.0,789.0,50,Concrete-Steel Composite,Office
+Sunshine 60 Tower,Tokyo,Japan,1978,240.0,787.0,60,Concrete-Steel Composite,Office
+Panglin Plaza,Shenzhen,China,2000,240.0,787.0,57,,Hotel / Office
+NTT DoCoMo Yoyogi Building,Tokyo,Japan,2000,240.0,787.0,33,All-Steel,Office
+Comerica Bank Tower,Dallas,United States,1987,240.0,787.0,60,Concrete-Steel Composite,Office / Residential / Hotel
+Commerce Court West,Toronto,Canada,1973,239.0,784.0,57,Concrete-Steel Composite,Office
+MV Lomonosov State University,Moscow,Russia,1953,239.0,784.0,39,All-Steel,Education
+Vista Tower,Kuala Lumpur,Malaysia,1994,238.0,781.0,60,Composite,Office
+TC Energy Center,Houston,United States,1983,238.0,780.0,56,All-Steel,
+555 California Street,San Francisco,United States,1969,237.0,779.0,52,All-Steel,Office

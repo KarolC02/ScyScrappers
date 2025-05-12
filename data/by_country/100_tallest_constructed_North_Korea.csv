@@ -1,0 +1,73 @@
+Name,City,Completion Year,Height (m),Height (ft),Floors,Material,Function
+Songhwa Street Main Tower,Pyongyang,2022,,,80,All-Concrete,Residential
+Ryomyong Street Apartment Building,Pyongyang,2017,270.0,886.0,82,All-Concrete,Residential
+Ryomyong Street 70-Storey Building,Pyongyang,2017,240.0,787.0,70,All-Concrete,Residential
+Ryomyong Street 55-Storey Building,Pyongyang,2017,210.0,689.0,55,All-Concrete,Residential
+Mirae Scientists Street Residential Tower,Pyongyang,2015,210.0,689.0,53,All-Concrete,Residential
+Hwaesong Street 60-Storey Building,Pyongyang,2023,,,60,N/A,Residential
+Ryomyong Street 50-Storey Building,Pyongyang,2017,200.0,656.0,50,All-Concrete,Residential
+Taedong Residences 1,Pyongyang,2015,172.0,564.0,50,All-Concrete,Residential
+Yanggakdo Hotel,Pyongyang,1995,170.0,558.0,47,N/A,Hotel
+Kim Chaek University of Technology Tower 1,Pyongyang,2014,165.0,541.0,46,N/A,Residential
+Kim Chaek University of Technology Tower 2,Pyongyang,2014,165.0,541.0,46,N/A,Residential
+KISU Residential Tower 1,Pyongyang,2013,153.0,502.0,45,N/A,Residential
+Scientists Apartment,Pyongyang,1988,151.0,494.0,42,All-Concrete,Residential
+Ryomyong Street 40-Storey Building,Pyongyang,2017,150.0,492.0,40,All-Concrete,Residential
+Twin Tower 1,Pyongyang,2016,150.0,492.0,38,N/A,Residential
+Twin Tower 2,Pyongyang,2016,150.0,492.0,38,N/A,Residential
+Ryonghung-Dong Apartment,Pyongyang,2010,150.0,492.0,35,N/A,Residential
+Pukmang Tower 1,Wonsan,1984,150.0,492.0,32,N/A,Residential
+Koryo Hotel 1,Pyongyang,1985,148.0,486.0,40,N/A,Hotel
+Koryo Hotel 2,Pyongyang,1985,148.0,486.0,40,N/A,Hotel
+Taedong Residences 2,Pyongyang,2015,148.0,486.0,40,N/A,Residential
+Mansudae Apartment 1#,Pyongyang,2012,146.0,480.0,45,All-Concrete,Residential
+Mansudae Apartment 2#,Pyongyang,2012,146.0,480.0,45,All-Concrete,Residential
+Kwangbok Street 1,Pyongyang,1989,144.0,473.0,42,N/A,Residential
+Tongan Residential 3,Pyongyang,2020,139.0,457.0,42,N/A,Residential
+Tongan Residential 4,Pyongyang,2021,139.0,457.0,42,N/A,Residential
+Artists Housing,Pyongyang,1988,133.0,435.0,42,All-Concrete,Residential
+KISU Residential Tower 2,Pyongyang,2013,132.0,433.0,37,N/A,Residential
+Mansudae Apartment 3#,Pyongyang,2012,130.0,427.0,40,All-Concrete,Residential
+Green Tower 1,Pyongyang,2016,130.0,427.0,35,All-Concrete,Residential
+Green Tower 2,Pyongyang,2016,130.0,427.0,35,All-Concrete,Residential
+Ryomyong Street 35-Storey Building,Pyongyang,2017,130.0,427.0,35,All-Concrete,Residential
+Blue Tower 1,Pyongyang,2016,125.0,410.0,34,All-Concrete,Residential
+Kwangbok Street 3,Pyongyang,1989,123.0,402.0,35,N/A,Residential
+Kwangbok Street 4,Pyongyang,1989,123.0,402.0,35,N/A,Residential
+Kwangbok Street 5,Pyongyang,1989,123.0,402.0,35,N/A,Residential
+Secretariat Housing,Pyongyang,1988,122.0,400.0,38,All-Concrete,Residential
+Tongan Apartment 2,Pyongyang,2013,122.0,400.0,36,All-Concrete,Residential
+Tongan Apartment 3,Pyongyang,2013,122.0,400.0,36,All-Concrete,Residential
+Tongan Residential 1,Pyongyang,2018,120.0,394.0,35,All-Concrete,Residential
+Kimchaek University Residences 3,Pyongyang,2016,120.0,394.0,30,N/A,Residential
+Kimchaek University Residences 4,Pyongyang,2016,120.0,394.0,30,N/A,Residential
+Taedong Residences 3,Pyongyang,2015,120.0,394.0,30,N/A,Residential
+Tongan Residential 2,Pyongyang,2019,119.0,390.0,35,All-Concrete,Residential
+Ryusong Residential 1,Pyongyang,2017,116.0,381.0,34,All-Concrete,Residential
+Othan-Kangan Apartment,Pyongyang,2014,109.0,358.0,32,N/A,Residential
+Chongnyon Hotel,Pyongyang,1989,107.0,351.0,30,N/A,Hotel
+Mansudae Apartment 8#A,Pyongyang,2012,107.0,350.0,35,All-Concrete,Residential
+Mansudae Apartment 8#B,Pyongyang,2012,107.0,350.0,35,All-Concrete,Residential
+Chonu-dong Blue Twin 2#,Pyongyang,2020,104.0,342.0,32,All-Concrete,Residential
+Mansudae Apartment 4#,Pyongyang,2012,104.0,341.0,32,All-Concrete,Residential
+Mansudae Apartment 5#,Pyongyang,2012,104.0,341.0,32,All-Concrete,Residential
+Sosan Hotel,Pyongyang,1989,103.0,338.0,30,N/A,Hotel
+Tongan Apartment 1,Pyongyang,2013,103.0,338.0,30,All-Concrete,Residential
+Nampo Tower,Nampo,N/A,101.0,332.0,32,N/A,Residential
+Mansudae Apartment 9#A,Pyongyang,2012,101.0,331.0,33,All-Concrete,Residential
+Mansudae Apartment 9#B,Pyongyang,2012,101.0,331.0,33,All-Concrete,Residential
+Blue Tower 2,Pyongyang,2016,100.0,328.0,27,All-Concrete,Residential
+Blue Tower 3,Pyongyang,2016,100.0,328.0,27,All-Concrete,Residential
+Chonu-dong Blue Twin 1#,Pyongyang,2020,92.0,302.0,28,All-Concrete,Residential
+200 Residential Apartments,Pyongyang,1988,84.0,275.0,26,All-Concrete,Residential
+Mansudae Apartment 10#A,Pyongyang,2012,77.0,253.0,25,All-Concrete,Residential
+Mansudae Apartment 10#B,Pyongyang,2012,77.0,253.0,25,All-Concrete,Residential
+Mansudae Apartment 12#,Pyongyang,2012,77.0,253.0,25,All-Concrete,Residential
+Cheyukchon Tower,Nampo,N/A,76.0,250.0,25,N/A,Residential
+Kwangbok Street 2,Pyongyang,1989,65.0,214.0,19,N/A,Residential
+Mansudae Apartment 11#,Pyongyang,2012,62.0,204.0,20,All-Concrete,Residential
+Mansudae Apartment 13#,Pyongyang,2012,62.0,204.0,20,All-Concrete,Residential
+Mansudae Apartment 14#,Pyongyang,2012,62.0,204.0,20,All-Concrete,Residential
+Ryanggang Hotel,Pyongyang,1989,,,15,N/A,Hotel
+Mansudae Apartment 6#,Pyongyang,2012,47.0,155.0,15,All-Concrete,Residential
+Mansudae Apartment 7#,Pyongyang,2012,47.0,155.0,15,All-Concrete,Residential
